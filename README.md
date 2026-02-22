@@ -1,1 +1,23 @@
-# VirtualDJ
+# VirtualDJ Plugins | DJ Farhad Official
+
+![کاور VirtualDJ](Image/ویرچوال-دیجی-main.jpg)
+
+🎧 مجموعه پلاگین‌ها و ابزارهای مرتبط با VirtualDJ، ساخته شده توسط **DJ Farhad Official**
+
+---
+
+## 🔘 دانلود VirtualDJ
+[![دانلود VirtualDJ](https://img.shields.io/badge/Download-VirtualDJ-blue)](https://virtualdj.com/download/index.html)
+
+---
+
+## 📱 ارتباط با من
+- اینستاگرام: [@djfarhadofficial](https://instagram.com/djfarhadofficial)  
+- تلگرام: [@djfarhadofficial](https://t.me/djfarhadofficial)
+
+---
+
+## ⚙️ نصب و استفاده
+1. ریپازیتوری را کلون کنید:
+```bash
+git clone https://github.com/username/VirtualDJ-Plugins.git
