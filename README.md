@@ -13,11 +13,10 @@
 
 ## 📱 ارتباط با من
 <p align="center">
-  <a href="https://instagram.com/djfarhadofficial">
+  <a href="https://instagram.com/djfarhadofficial" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@djfarhadofficial-pink?logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/djfarhadofficial">
+  <a href="https://t.me/djfarhadofficial" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@djfarhadofficial-blue?logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
